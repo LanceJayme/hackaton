@@ -10,3 +10,4 @@ torch
 accelerate
 rapidfuzz
 openai-whisper
+gdown
