@@ -4,7 +4,11 @@ class PasswordInputScreen extends StatefulWidget {
   final String username;
   final String language;
 
-  PasswordInputScreen({required this.username, required this.language});
+  const PasswordInputScreen({
+    super.key,
+    required this.username,
+    required this.language,
+  });
 
   @override
   _PasswordInputScreenState createState() => _PasswordInputScreenState();
@@ -139,7 +143,7 @@ class _PasswordInputScreenState extends State<PasswordInputScreen> {
             Align(
               alignment: Alignment.bottomRight,
               child: Image.asset(
-                'assets/CodyFace3.png',
+                'assets/Cody3Half.png',
                 width: 160,
                 height: 160,
                 fit: BoxFit.contain,

@@ -62,6 +62,7 @@ flutter:
     - assets/Cody1.png
     - assets/Cody2.png
     - assets/Cody3.png
+    - assets/ChatbotIcon.png
     - assets/Cody3Half.png
     - assets/Cody4.png
     - assets/CodyFace1.png
@@ -69,6 +70,17 @@ flutter:
     - assets/CodyFace3.png
     - assets/CodyError.png
     - assets/CodySetup.png
+    - assets/CodyTutor1.png
+    - assets/CodyTutor2-7.png
+    - assets/CodyTutor8.png
+    - assets/Menu1.png
+    - assets/Menu2.png
+    - assets/Menu3.png
+    - assets/Menu4.png
+    - assets/Menu5.png
+    - assets/Streak.png
+    - assets/Star.png
+    - assets/Medal.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images

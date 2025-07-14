@@ -5,6 +5,10 @@ import 'language_selection_screen.dart';
 import 'password_input_screen.dart';
 import 'loading_setup_screen.dart';
 import 'home_screen.dart';
+import 'story_mode_screen.dart';
+import 'profile_screen.dart';
+import 'games_screen.dart';
+import 'settings_screen.dart';
 
 void main() {
   runApp(CodyGoApp());
@@ -69,6 +73,46 @@ class CodyGoApp extends StatelessWidget {
                   ? args['username'] as String
                   : '';
           return HomeScreen(username: username);
+        },
+        '/story_mode': (context) {
+          final args =
+              ModalRoute.of(context)!.settings.arguments
+                  as Map<String, dynamic>?;
+          final username =
+              args != null && args.containsKey('username')
+                  ? args['username'] as String
+                  : '';
+          return StoryModeScreen(username: username);
+        },
+        '/profile': (context) {
+          final args =
+              ModalRoute.of(context)!.settings.arguments
+                  as Map<String, dynamic>?;
+          final username =
+              args != null && args.containsKey('username')
+                  ? args['username'] as String
+                  : '';
+          return ProfileScreen(username: username);
+        },
+        '/games': (context) {
+          final args =
+              ModalRoute.of(context)!.settings.arguments
+                  as Map<String, dynamic>?;
+          final username =
+              args != null && args.containsKey('username')
+                  ? args['username'] as String
+                  : '';
+          return GamesScreen(username: username);
+        },
+        '/settings': (context) {
+          final args =
+              ModalRoute.of(context)!.settings.arguments
+                  as Map<String, dynamic>?;
+          final username =
+              args != null && args.containsKey('username')
+                  ? args['username'] as String
+                  : '';
+          return SettingsScreen(username: username);
         },
       },
       builder: (context, child) {

@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
 import 'home_screen.dart';
+import 'tutorial_screen.dart';
 
 class LoadingSetupScreen extends StatefulWidget {
   final String username;
-  LoadingSetupScreen({required this.username});
+  const LoadingSetupScreen({super.key, required this.username});
 
   @override
   _LoadingSetupScreenState createState() => _LoadingSetupScreenState();
