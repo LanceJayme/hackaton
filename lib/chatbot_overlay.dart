@@ -1,6 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
+import 'package:flutter/foundation.dart' show kIsWeb;
+import 'package:speech_to_text/speech_to_text.dart' as stt;
+import 'package:permission_handler/permission_handler.dart';
+import 'dart:io';
 
 class ChatbotOverlay extends StatefulWidget {
   final Widget child;
@@ -18,6 +22,30 @@ class _ChatbotOverlayState extends State<ChatbotOverlay> {
   List<_ChatMessage> _messages = [];
   final TextEditingController _textController = TextEditingController();
   final ScrollController _scrollController = ScrollController();
+
+  final stt.SpeechToText _speechToText = stt.SpeechToText();
+  bool _speechEnabled = false;
+  bool _isRecording = false;
+
+  @override
+  void initState() {
+    super.initState();
+    if (_isVoiceSupported()) {
+      _initializeSpeech();
+    }
+  }
+
+  bool _isVoiceSupported() {
+    return !kIsWeb && (Platform.isAndroid || Platform.isIOS || Platform.isMacOS || Platform.isLinux);
+  }
+
+  void _initializeSpeech() async {
+    try {
+      _speechEnabled = await _speechToText.initialize();
+    } catch (e) {
+      _speechEnabled = false;
+    }
+  }
 
   void _toggleChatbot() {
     setState(() {
@@ -46,7 +74,7 @@ class _ChatbotOverlayState extends State<ChatbotOverlay> {
 
     // Call the backend
     final response = await http.post(
-      Uri.parse('http://localhost:5000/api/chat'), // Updated backend URL
+      Uri.parse('http://192.168.254.103:5000/api/chat'), // Updated backend URL
       headers: {'Content-Type': 'application/json'},
       body: jsonEncode({'message': text}),
     );
@@ -71,6 +99,44 @@ class _ChatbotOverlayState extends State<ChatbotOverlay> {
         curve: Curves.easeOut,
       );
     });
+  }
+
+  Future<void> _startRecording() async {
+    if (!_isVoiceSupported() || !_speechEnabled) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(content: Text('Voice input is not available on this platform')),
+      );
+      return;
+    }
+    if (await Permission.microphone.request().isGranted) {
+      await _speechToText.listen(
+        onResult: (result) async {
+          if (result.finalResult) {
+            setState(() {
+              _textController.text = result.recognizedWords;
+              _isRecording = false;
+              _isChatInputActive = true;
+            });
+            // Automatically send the recognized text as a message
+            await Future.delayed(Duration(milliseconds: 100)); // ensure UI updates
+            _handleSubmitted(result.recognizedWords);
+          }
+        },
+        listenFor: Duration(seconds: 30),
+        pauseFor: Duration(seconds: 3),
+        partialResults: true,
+        localeId: 'en_US',
+        cancelOnError: true,
+        listenMode: stt.ListenMode.confirmation,
+      );
+      setState(() => _isRecording = true);
+    }
+  }
+
+  Future<void> _stopRecording() async {
+    if (!_isVoiceSupported() || !_speechEnabled) return;
+    await _speechToText.stop();
+    setState(() => _isRecording = false);
   }
 
   Widget _buildHeader() {
@@ -156,13 +222,9 @@ class _ChatbotOverlayState extends State<ChatbotOverlay> {
       ),
       child: Row(
         children: [
-          GestureDetector(
-            onTap: () {
-              setState(() {
-                _isChatInputActive = false;
-              });
-            },
-            child: Icon(Icons.mic, color: Color(0xFF9C4DFF)),
+          IconButton(
+            icon: Icon(_isRecording ? Icons.mic : Icons.mic_none, color: _isRecording ? Colors.red : Color(0xFF9C4DFF)),
+            onPressed: _isRecording ? _stopRecording : _startRecording,
           ),
           SizedBox(width: 8),
           Expanded(
@@ -215,13 +277,26 @@ class _ChatbotOverlayState extends State<ChatbotOverlay> {
                 ),
                 Expanded(
                   child: Center(
-                    child: Container(
-                      padding: EdgeInsets.all(12),
-                      decoration: BoxDecoration(
-                        color: Color(0xFF9C4DFF),
-                        shape: BoxShape.circle,
+                    child: GestureDetector(
+                      onTap: () async {
+                        if (_isRecording) {
+                          await _stopRecording();
+                        } else {
+                          await _startRecording();
+                        }
+                      },
+                      child: Container(
+                        padding: EdgeInsets.all(12),
+                        decoration: BoxDecoration(
+                          color: Color(0xFF9C4DFF),
+                          shape: BoxShape.circle,
+                        ),
+                        child: Icon(
+                          _isRecording ? Icons.stop : Icons.mic,
+                          color: Colors.white,
+                          size: 28,
+                        ),
                       ),
-                      child: Icon(Icons.mic, color: Colors.white, size: 28),
                     ),
                   ),
                 ),
@@ -229,6 +304,14 @@ class _ChatbotOverlayState extends State<ChatbotOverlay> {
               ],
             ),
           ),
+          if (_isRecording)
+            Padding(
+              padding: const EdgeInsets.only(top: 12.0),
+              child: Text(
+                'Listening... Tap to stop.',
+                style: TextStyle(color: Colors.red, fontWeight: FontWeight.bold),
+              ),
+            ),
         ],
       ),
     );

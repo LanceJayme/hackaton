@@ -1,7 +1,8 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 from rapidfuzz import fuzz
-from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
+from transformers.pipelines import pipeline
+from transformers import AutoTokenizer, AutoModelForCausalLM
 import whisper
 import datetime
 import os
@@ -9,7 +10,6 @@ import os
 app = Flask(__name__)
 CORS(app)  # Allow requests from Flutter
 
-@app.route('/chat', methods=['POST'])
 def load_faq(filepath):
     qa_pairs = []
     if not os.path.exists(filepath):
@@ -88,8 +88,19 @@ def chat():
         print("Exception in /api/chat:", e)
         return jsonify({'answer': f"Error: Exception: {e}"}), 500
 
+@app.route('/api/transcribe', methods=['POST'])
+def transcribe():
+    if 'audio' not in request.files:
+        return jsonify({'text': ''}), 400
+    audio_file = request.files['audio']
+    audio_path = f"/tmp/{audio_file.filename}"
+    audio_file.save(audio_path)
+    model = whisper.load_model("base")  # or "small", "medium", etc.
+    result = model.transcribe(audio_path)
+    return jsonify({'text': result['text']})
 
-if __name__ == '__main__':
-    app.run(port=5000)
+
+if __name__ == "__main__":
+    app.run(host="0.0.0.0", port=5000)
 
 
