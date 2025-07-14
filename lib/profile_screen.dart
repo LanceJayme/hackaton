@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'common_navigation_bar.dart';
 
 class ProfileScreen extends StatelessWidget {
   final String username;
@@ -30,94 +31,9 @@ class ProfileScreen extends StatelessWidget {
   }
 
   Widget _buildNavigationBar(BuildContext context) {
-    return Container(
-      height: 56,
-      padding: EdgeInsets.symmetric(horizontal: 16),
-      decoration: BoxDecoration(
-        color: Color(0xFFF0F7FF),
-        borderRadius: BorderRadius.circular(24),
-        boxShadow: [
-          BoxShadow(color: Colors.black12, blurRadius: 8, offset: Offset(0, 2)),
-        ],
-      ),
-      child: Row(
-        mainAxisAlignment: MainAxisAlignment.spaceAround,
-        children: [
-          GestureDetector(
-            onTap: () {
-              Navigator.pushReplacementNamed(
-                context,
-                '/home',
-                arguments: {'username': username},
-              );
-            },
-            child: Column(
-              mainAxisSize: MainAxisSize.min,
-              children: [
-                Padding(
-                  padding: const EdgeInsets.only(top: 4),
-                  child: Image.asset('assets/Menu1.png', width: 24, height: 24),
-                ),
-                Container(
-                  width: 6,
-                  height: 6,
-                  decoration: BoxDecoration(
-                    color: Colors.transparent,
-                    shape: BoxShape.circle,
-                  ),
-                ),
-              ],
-            ),
-          ),
-          GestureDetector(
-            onTap: () {
-              Navigator.pushReplacementNamed(
-                context,
-                '/story_mode',
-                arguments: {'username': username},
-              );
-            },
-            child: Image.asset('assets/Menu2.png', width: 24, height: 24),
-          ),
-          GestureDetector(
-            onTap: () {
-              // Already on Profile screen
-            },
-            child: Stack(
-              alignment: Alignment.topCenter,
-              children: [
-                Padding(
-                  padding: const EdgeInsets.only(bottom: 6),
-                  child: Image.asset('assets/Menu3.png', width: 28, height: 28),
-                ),
-                Positioned(
-                  bottom: 0,
-                  child: Container(
-                    width: 6,
-                    height: 6,
-                    decoration: BoxDecoration(
-                      color: Color(0xFF9C4DFF),
-                      shape: BoxShape.circle,
-                    ),
-                  ),
-                ),
-              ],
-            ),
-          ),
-          GestureDetector(
-            onTap: () {
-              Navigator.pushReplacementNamed(context, '/games');
-            },
-            child: Image.asset('assets/Menu4.png', width: 24, height: 24),
-          ),
-          GestureDetector(
-            onTap: () {
-              Navigator.pushReplacementNamed(context, '/settings');
-            },
-            child: Image.asset('assets/Menu5.png', width: 24, height: 24),
-          ),
-        ],
-      ),
+    return CommonNavigationBar(
+      currentIndex: 2,
+      username: username,
     );
   }
 

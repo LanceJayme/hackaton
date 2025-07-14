@@ -2,9 +2,9 @@ import 'package:flutter/material.dart';
 import 'user_data.dart';
 import 'common_navigation_bar.dart';
 
-class GamesScreen extends StatelessWidget {
+class GamesScreenRedesign extends StatelessWidget {
   final String username;
-  GamesScreen({super.key, required this.username}) {
+  GamesScreenRedesign({super.key, required this.username}) {
     UserData().setUsername(username);
   }
 
@@ -24,7 +24,7 @@ class GamesScreen extends StatelessWidget {
     required String imagePath,
     required VoidCallback onTap,
     bool isLocked = false,
-    String? lockedMessage,
+    String lockedMessage = 'Complete previous games',
   }) {
     return GestureDetector(
       onTap: isLocked ? null : onTap,
@@ -169,12 +169,12 @@ class GamesScreen extends StatelessWidget {
 
   Widget _buildSectionTitle(String title) {
     return Padding(
-      padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
+      padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 16),
       child: Text(
         title,
         style: TextStyle(
-          color: Colors.black87,
-          fontSize: 18,
+          color: Color(0xFF9C4DFF),
+          fontSize: 22,
           fontWeight: FontWeight.bold,
         ),
       ),
@@ -253,40 +253,6 @@ class GamesScreen extends StatelessWidget {
     );
   }
 
-  Widget _buildStoryModeCard(BuildContext context) {
-    return Padding(
-      padding: EdgeInsets.symmetric(horizontal: 16, vertical: 8),
-      child: ClipRRect(
-        borderRadius: BorderRadius.circular(24),
-        child: Image.asset(
-          'assets/Home Screen/story mode.png',
-          width: double.infinity,
-          height: 200,
-          fit: BoxFit.contain,
-        ),
-      ),
-    );
-  }
-
-  Widget _buildMiniGameCard(
-      String title, String imageAsset, VoidCallback onTap) {
-    return Padding(
-      padding: EdgeInsets.all(8),
-      child: GestureDetector(
-        onTap: onTap,
-        child: ClipRRect(
-          borderRadius: BorderRadius.circular(24),
-          child: Image.asset(
-            imageAsset,
-            width: 200,
-            height: 160,
-            fit: BoxFit.contain,
-          ),
-        ),
-      ),
-    );
-  }
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -294,76 +260,106 @@ class GamesScreen extends StatelessWidget {
       appBar: AppBar(
         backgroundColor: Colors.white,
         elevation: 0,
-        title: Row(
-          children: [
-            Text(
-              'TRAINING',
-              style: TextStyle(
-                color: Colors.black,
-                fontWeight: FontWeight.bold,
-                fontSize: 20,
-              ),
-            ),
-            Spacer(),
-            Image.asset(
-              'assets/Navbar/Chatbot Icon.png',
+        title: Text(
+          'MINI GAMES',
+          style: TextStyle(
+            color: Colors.black,
+            fontWeight: FontWeight.bold,
+            fontSize: 20,
+          ),
+        ),
+        actions: [
+          Padding(
+            padding: EdgeInsets.only(right: 16),
+            child: Image.asset(
+              'assets/ChatbotIcon.png',
               width: 40,
               height: 40,
               fit: BoxFit.contain,
             ),
-          ],
-        ),
+          ),
+        ],
       ),
       body: SingleChildScrollView(
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
+            _buildProgressIndicator(),
             _buildSectionTitle('Start Learning'),
-            _buildStoryModeCard(context),
-            _buildSectionTitle('Test your Knowledge'),
-            Row(
-              children: [
-                Expanded(
-                    child: _buildMiniGameCard(
-                        'Odd One Out', 'assets/Home Screen/game 1.png', () {
-                  _navigateToPage(context, '/odd_one_out');
-                })),
-                Expanded(
-                    child: _buildMiniGameCard(
-                        'Odd One Out', 'assets/Home Screen/game 1.png', () {
-                  _navigateToPage(context, '/odd_one_out');
-                })),
-              ],
+            _buildGameCard(
+              title: 'Code Adventure',
+              description: 'Learn coding basics through fun challenges',
+              color: Color(0xFFBB3EFF),
+              icon: Icons.code,
+              imagePath: 'assets/Home Screen/game 1.png',
+              onTap: () {
+                // Navigate to Code Adventure
+              },
             ),
-            _buildSectionTitle('Test your Coding Skills'),
-            Row(
-              children: [
-                Expanded(
-                    child: _buildMiniGameCard(
-                        'Tinda Run', 'assets/Home Screen/game 2.png', () {
-                  _navigateToPage(context, '/tinda_run');
-                })),
-                Expanded(
-                    child: _buildMiniGameCard(
-                        'Tinda Run', 'assets/Home Screen/game 2.png', () {
-                  _navigateToPage(context, '/tinda_run');
-                })),
-              ],
+            _buildSectionTitle('Test Your Knowledge'),
+            _buildGameCard(
+              title: 'Quiz Master',
+              description: 'Test your programming knowledge',
+              color: Color(0xFFFF3E9A),
+              icon: Icons.quiz,
+              imagePath: 'assets/Home Screen/game 2.png',
+              onTap: () {
+                // Navigate to Quiz Master
+              },
             ),
-            _buildSectionTitle('Test your Digital Literacy'),
-            Row(
-              children: [
-                Expanded(
-                    child: _buildMiniGameCard(
-                        'Tinda Run', 'assets/Home Screen/game 3.png', () {
-                  _navigateToPage(context, '/tinda_run');
-                })),
-                Expanded(
-                    child: _buildMiniGameCard(
-                        'Tinda Run', 'assets/Home Screen/game 3.png', () {
-                  _navigateToPage(context, '/tinda_run');
-                })),
-              ],
+            _buildGameCard(
+              title: 'Bug Hunter',
+              description: 'Find and fix bugs in code',
+              color: Color(0xFFFF8A3E),
+              icon: Icons.bug_report,
+              imagePath: 'assets/Home Screen/game 3.png',
+              onTap: () {
+                // Navigate to Bug Hunter
+              },
+            ),
+            _buildSectionTitle('Test Your Coding Skills'),
+            _buildGameCard(
+              title: 'Algorithm Challenge',
+              description: 'Solve complex algorithm problems',
+              color: Color(0xFF3EFF7E),
+              icon: Icons.functions,
+              imagePath: 'assets/Home Screen/game 4.png',
+              onTap: () {
+                // Navigate to Algorithm Challenge
+              },
+            ),
+            _buildGameCard(
+              title: 'Code Sprint',
+              description: 'Speed coding challenges',
+              color: Color(0xFF3EBAFF),
+              icon: Icons.speed,
+              imagePath: 'assets/Home Screen/story mode.png',
+              onTap: () {
+                // Navigate to Code Sprint
+              },
+            ),
+            _buildSectionTitle('Test Your Digital Literacy'),
+            _buildGameCard(
+              title: 'Cyber Security',
+              description: 'Learn about online safety',
+              color: Color(0xFF3EFF7E),
+              icon: Icons.security,
+              imagePath: 'assets/Home Screen/streak.png',
+              onTap: () {
+                // Navigate to Cyber Security
+              },
+            ),
+            _buildGameCard(
+              title: 'Digital Detective',
+              description: 'Spot fake news and scams',
+              color: Color(0xFF3EBAFF),
+              icon: Icons.search,
+              imagePath: 'assets/Home Screen/game 1.png',
+              onTap: () {
+                // Navigate to Digital Detective
+              },
+              isLocked: true,
+              lockedMessage: 'Complete 5 games to unlock',
             ),
             SizedBox(height: 24),
           ],
