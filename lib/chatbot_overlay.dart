@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:http/http.dart' as http;
+import 'dart:convert';
 
 class ChatbotOverlay extends StatefulWidget {
   final Widget child;
@@ -33,18 +35,34 @@ class _ChatbotOverlayState extends State<ChatbotOverlay> {
     });
   }
 
-  void _handleSubmitted(String text) {
+  void _handleSubmitted(String text) async {
     if (text.trim().isEmpty) return;
 
     setState(() {
       _messages.add(_ChatMessage(text: text, isUser: true));
-      _messages.add(_ChatMessage(
-        text: "Codey: A variable stores data that can change later.",
-        isUser: false,
-      ));
     });
 
     _textController.clear();
+
+    // Call the backend
+    final response = await http.post(
+      Uri.parse('http://localhost:5000/api/chat'), // Updated backend URL
+      headers: {'Content-Type': 'application/json'},
+      body: jsonEncode({'message': text}),
+    );
+
+    String botReply = "Sorry, I couldn't get a response.";
+    if (response.statusCode == 200) {
+      final data = jsonDecode(response.body);
+      botReply = data['answer'] ?? botReply; // Updated key to 'answer'
+    }
+
+    setState(() {
+      _messages.add(_ChatMessage(
+        text: botReply,
+        isUser: false,
+      ));
+    });
 
     Future.delayed(Duration(milliseconds: 100), () {
       _scrollController.animateTo(

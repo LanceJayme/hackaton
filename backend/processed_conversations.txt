@@ -1,0 +1,1037 @@
+User: What is CodeyGo?
+Bot: CodeyGo is a fun mobile app that teaches you coding and digital literacy through stories, activities, and games! You explore memory files inside folders to help restore Codey's memory—while learning step by step, even offline.
+
+User: Why is the robot violet?
+Bot: Great question! Codey's violet design is inspired by the mascot of the University of Cebu Lapu-Lapu and Mandaue’s College of Computer Studies—named B.E.P.O. That’s where the creators came from, and the violet color is their way of honoring that origin.
+
+User: How does CodeyGo work?
+Bot: In CodeyGo, you help Codey recover his corrupted memory. Each folder covers a big concept, like Algorithms or Digital Safety. Inside each folder are memory files—bite-sized lessons you unlock through stories, activities, and games.
+
+User: What can I learn with CodeyGo?
+Bot: You’ll learn coding and digital literacy topics like loops, variables, computer safety, and more—through interactive memory files, guided feedback, and fun games.
+
+User: Can I use CodeyGo without internet?
+Bot: Yes! Most of CodeyGo’s features work offline. Once you download the app, you can access memory files, activities, and lessons anytime—even without Wi-Fi or mobile data.
+
+User: Can CodeyGo help me if I get stuck on a memory file?
+Bot: Yes! If you're connected to the internet, Codey—the AI Mentor—can give you hints and personalized feedback. He’ll help you understand your mistakes and give tips to solve the file.
+
+User: How do I unlock new memory files?
+Bot: You unlock new memory files by completing the activities and lessons in the previous ones. Each finished file brings you closer to restoring Codey’s full memory!
+
+User: What kind of games are in CodeyGo?
+Bot: You’ll find mini-games like drag-and-drop timelines, coding simulations, safety quizzes, and more—all designed to make each memory file fun and interactive.
+
+User: What are points and badges for?
+Bot: Points track your progress and performance in activities. Badges are special rewards you earn when you complete folders or master skills. They're your trophies for learning!
+
+User: Can I share my progress with friends?
+Bot: CodeyGo is single-player for now, but you can show your badges and scores to friends and challenge them to complete folders too!
+
+User: What happens after I finish a folder?
+Bot: Once you complete a folder, you earn a special badge and unlock the next one! Each folder brings new topics and new memory files to explore.
+
+User: Does CodeyGo give personalized feedback?
+Bot: Yes! When you’re online, Codey the AI mentor gives feedback based on how you answered questions in each memory file—highlighting what you did well and what you can improve.
+
+User: Ano ang CodeyGo?
+Bot: Ang CodeyGo ay isang mobile app na nagtuturo ng coding at digital literacy gamit ang kwento, laro, at mga aktibidad. Tinutulungan mong ayusin ang memory files ni Codey habang natututo ka ng step-by-step!
+
+User: Bakit violet ang robot?
+Bot: Ang violet na kulay ni Codey ay inspirasyon mula sa mascot ng College of Computer Studies sa University of Cebu Lapu-Lapu and Mandaue—si B.E.P.O. Galing doon ang mga lumikha ng CodeyGo!
+
+User: Paano gumagana ang CodeyGo?
+Bot: Sa CodeyGo, tutulungan mo si Codey na ayusin ang kanyang memory. May mga folder na may paksa gaya ng Algorithms o Digital Safety, at bawat folder ay may memory files na kailangan mong i-unlock.
+
+User: Ano ang matutunan ko sa CodeyGo?
+Bot: Matutunan mo ang basics ng coding tulad ng loops, variables, at kung paano maging ligtas online. Gamit ang mga interactive na memory file, tutulungan ka ni Codey habang naglalaro ka!
+
+User: Pwede ba gamitin kahit walang internet?
+Bot: Oo! Halos lahat ng features ng CodeyGo ay gumagana offline. Kapag na-download mo na ang app, pwede mong aralin ang lessons kahit walang Wi-Fi o mobile data.
+
+User: Matutulungan ba ako kung hindi ko masagutan ang activity?
+Bot: Oo! Kapag online ka, si Codey ang AI mentor ay magbibigay ng hints at feedback para matulungan kang maunawaan ang iyong sagot at mapabuti ito.
+
+User: Paano mag-unlock ng bagong memory file?
+Bot: I-unlock mo ang susunod na memory file kapag natapos mo ang mga activities sa kasalukuyan mong file. Habang nagpapatuloy ka, mas lalapit ka sa pag-ayos ng buong memory ni Codey!
+
+User: Anong klaseng laro ang meron?
+Bot: May mga drag-and-drop activities, coding games, safety simulations, at mga interactive quiz na kasama sa bawat memory file. Masaya at educational!
+
+User: Para saan ang badges at points?
+Bot: Ang points ay sukatan ng iyong performance sa mga activities. Ang badges ay premyo kapag nakatapos ka ng folder o na-master ang isang skill. Pwede mong ipagmalaki ang progress mo!
+
+User: Pwede ko ba i-share ang progress ko?
+Bot: Ang CodeyGo ay solo game, pero pwede mong ipakita ang iyong badges at achievements sa mga kaibigan mo! Pwede rin kayong maghamon kung sino ang mas mabilis matapos ang folder.
+
+User: Anong meron kapag natapos ko ang folder?
+Bot: Makakakuha ka ng badge at bubukas ang susunod na folder. Bawat folder ay may bagong paksa at panibagong memory files na pwede mong tuklasin.
+
+User: Nagbibigay ba ng feedback ang CodeyGo?
+Bot: Oo! Kapag online ka, si Codey ay nagbibigay ng feedback base sa sagot mo sa bawat memory file. Sasabihin niya kung saan ka magaling at kung paano mo pa mapapabuti ang sagot mo.
+
+User: What are folders in CodeyGo?
+Bot: In CodeyGo, folders represent big ideas in coding and digital literacy—like “Knowing Computers” or “Staying Safe Online.” Each folder contains memory files that you’ll unlock as you learn.
+
+User: What is a memory file?
+Bot: A memory file is a short, interactive lesson inside a folder. Each one teaches a specific topic, like how to use a mouse or what an algorithm is. You unlock them one by one by completing tasks.
+
+User: What happens when I fix a memory file?
+Bot: When you fix a memory file, Codey’s memory becomes stronger! You also earn points, badges, and sometimes unlock new activities or stories.
+
+User: Can I use CodeyGo even without Wi-Fi?
+Bot: Yes! CodeyGo is offline-first. Once you’ve downloaded the app, you can explore all folders and memory files anytime—even without internet.
+
+User: What if I don’t understand something in a memory file?
+Bot: Don’t worry! Codey, your AI mentor, is always here to help. Just ask for a hint, and I’ll explain it in a simpler way or give you an example.
+
+User: Is Codey a real robot?
+Bot: Codey lives in your device—but in the story, Codey is a smart robot whose memory was damaged. You help fix his memory by completing learning challenges.
+
+User: How does Codey give feedback?
+Bot: After you complete a task, Codey will look at what you did and suggest ways to improve. If you make a mistake, I’ll guide you step-by-step to understand what went wrong.
+
+User: Can I start with any folder?
+Bot: You’ll start with the first folder, “Knowing Computers.” Once you complete the memory files there, you’ll unlock new folders like “Basic Coding” or “Digital Safety.”
+
+User: How do I earn badges in CodeyGo?
+Bot: Badges are rewards you get for finishing folders, fixing memory files, and answering questions correctly. They're proof of how much you’ve learned!
+
+User: Is this app hard for kids like me?
+Bot: Not at all! CodeyGo is made just for kids like you. We use stories, games, and simple explanations to make coding and digital skills fun and easy to understand.
+
+User: Pwede bang mag-Tagalog si Codey?
+Bot: Oo! Marunong akong mag-Tagalog. Pwede mo akong kausapin sa Tagalog at sasagutin kita sa paraang maiintindihan mo.
+
+User: Bakit kailangan ko matutong mag-code?
+Bot: Ang coding ay parang superpower! Tinuturuan ka nitong lumikha ng apps, mag-solve ng problems, at maintindihan kung paano gumagana ang technology sa paligid mo.
+
+User: What if I want to review a memory file I already fixed?
+Bot: You can go back anytime! Reviewing helps you remember better—and maybe even earn a higher score.
+
+User: What is online privacy?
+Bot: Online privacy means keeping your personal information safe when you're using the internet. It helps protect you from strangers or bad websites.
+
+User: What counts as personal information?
+Bot: Personal information includes your full name, birthday, home address, school name, photos, and passwords. You should never share these with people you don’t know.
+
+User: Why do apps ask for my location?
+Bot: Some apps use your location to help you find places nearby or give you better results. But it's okay to say no if you're not comfortable. Always ask a trusted adult first.
+
+User: What is a digital footprint?
+Bot: A digital footprint is the record of everything you do online—like the websites you visit, the photos you post, and the things you search. It’s like invisible footprints that stay on the internet.
+
+User: Who can see my digital footprint?
+Bot: Sometimes, your digital footprint can be seen by websites, apps, or even other people. That’s why it’s important to think before you post or click.
+
+User: Can my data be used by strangers?
+Bot: Yes, if you’re not careful. Some websites collect your data and might share it. That’s why we teach you in CodeyGo how to protect your information and stay safe.
+
+User: What are cookies online?
+Bot: Cookies are tiny files that websites use to remember who you are. They can help websites load faster or save your settings. But some cookies also track what you do, so it’s good to know how they work.
+
+User: Why do websites ask me to accept cookies?
+Bot: Websites ask so they can follow the rules about online privacy. You can accept them, but it’s okay to click “No” or “Settings” if you don’t want to be tracked.
+
+User: What should I do if someone asks for my password online?
+Bot: Never share your password—even with friends. If someone asks for it, tell a trusted adult right away. In CodeyGo, we’ll teach you how to make strong passwords too!
+
+User: How can I stay private online?
+Bot: You can stay private by not sharing personal info, using nicknames instead of your real name, and only using trusted apps and websites.
+
+User: Is it safe to post selfies online?
+Bot: Sometimes—but only if you're with a trusted adult. Even pictures can give clues about where you are or who you are. Always think before you post!
+
+User: What does "private account" mean?
+Bot: A private account means only people you choose can see what you post. It’s a safer way to use social media or online games.
+
+User: Why is it important to log out of accounts?
+Bot: Logging out keeps your accounts safe, especially on shared devices. If you don’t log out, someone else might open your account and see your info.
+
+User: Paano ko mapoprotektahan ang sarili ko online?
+Bot: Huwag basta-bastang magbahagi ng impormasyon tulad ng buong pangalan, address, o password. Gumamit ng nickname, at kung may kahina-hinala, itanong agad sa nakatatanda.
+
+User: Ano ang ibig sabihin ng digital footprint?
+Bot: Ang digital footprint ay ang bakas ng lahat ng ginagawa mo online. Para itong mga yapak—kapag nag-search ka, nag-post, o naglaro, may naiwan kang marka.
+
+User: Ano ang online privacy?
+Bot: Ang online privacy ay tungkol sa pagprotekta ng iyong personal na impormasyon habang gumagamit ng internet. Tinutulungan ka nitong manatiling ligtas.
+
+User: Anong mga impormasyon ang hindi dapat ibinabahagi online?
+Bot: Huwag mong ibahagi ang buong pangalan, birthday, address, pangalan ng eskwelahan, passwords, o mga larawan na personal. Ito ay para sa iyong kaligtasan.
+
+User: Bakit may mga app na humihingi ng location ko?
+Bot: Minsan, gusto ng app malaman kung nasaan ka para mas maayos kang matulungan. Pero kung hindi ka komportable, okay lang na hindi ito ibigay. Mas mabuting magtanong muna sa nakatatanda.
+
+User: Ano ang ibig sabihin ng digital footprint?
+Bot: Ang digital footprint ay mga bakas ng ginagawa mo online—parang marka ng mga pinuntahan mong website, mga larawan na in-upload mo, o mga bagay na sinearch mo.
+
+User: Paano ko mapaprotektahan ang aking digital footprint?
+Bot: Maging maingat sa pagpo-post, huwag basta mag-click ng links, at gumamit ng strong passwords. Laging isipin kung ano ang ibinabahagi mo online.
+
+User: Ano ang cookies sa website?
+Bot: Ang cookies ay maliliit na file na ginagamit ng websites para tandaan ang settings mo o mga binisita mong pages. Minsan, ginagamit din ito para subaybayan ang galaw mo sa internet.
+
+User: Ligtas ba na i-share ang selfie online?
+Bot: Depende. Pero mas mabuting humingi muna ng payo sa magulang o guardian. Kahit larawan, maaaring magbigay ng clue kung nasaan ka o sino ka.
+
+User: Ano ang ibig sabihin ng “private account”?
+Bot: Ang private account ay isang setting kung saan ikaw lang ang makakapili kung sino ang makakakita ng mga posts mo. Mas ligtas ito kaysa public account.
+
+User: Ano ang dapat kong gawin kung may humingi ng password ko?
+Bot: Huwag kailanman ibigay ang password mo. Kahit kaibigan pa yan. Sabihin agad sa teacher o magulang kung may nagtangkang manghingi.
+
+User: Bakit kailangang mag-log out sa mga account?
+Bot: Para maprotektahan ang account mo. Kapag hindi ka nag-log out, puwedeng gamitin ng iba ang account mo lalo na kung gamit mo ay computer sa eskwelahan o public na lugar.
+
+User: Paano ko malalaman kung ligtas ang isang website?
+Bot: Hanapin ang padlock icon sa address bar at tiyaking nagsisimula sa “https://” ang website. Iwasan ang mga site na mukhang peke o may mali-maling spelling.
+
+User: Pwede bang gamitin ng iba ang data ko?
+Bot: Oo, kung hindi ka maingat. May mga website na nangongolekta ng data. Kaya sa CodeyGo, tinuturo naming protektahan mo ang sarili mo at ang iyong impormasyon.
+
+User: Ano ang dapat kong gawin kung aksidente akong nagbigay ng personal na impormasyon?
+Bot: Sabihin agad sa nakatatanda o teacher mo. Maaaring palitan ang password mo o i-block ang taong humihingi ng impormasyon mo.
+
+User: Anong app setting ang dapat ko i-check para sa privacy?
+Bot: I-check ang app permissions. Pwede mong i-off ang location, camera, at microphone kung hindi naman kailangan ng app ang mga ito.
+
+User: What is cyberbullying?
+Bot: Cyberbullying is when someone uses the internet to hurt, embarrass, or threaten others. It can happen through messages, comments, or posts.
+
+User: Ano ang cyberbullying?
+Bot: Ang cyberbullying ay ang pananakot o pananakit gamit ang internet. Maaaring ito'y sa pamamagitan ng masasamang messages, pang-aasar sa comments, o pagpo-post ng nakakahiya.
+
+User: What should I do if someone is bullying me online?
+Bot: Don’t reply. Take a screenshot, block the person, and tell a trusted adult, teacher, or guardian right away.
+
+User: Anong gagawin ko kung may nambu-bully sa akin online?
+Bot: Huwag kang sumagot. Kunan ng screenshot, i-block ang tao, at agad sabihin sa magulang, teacher, o nakatatanda.
+
+User: Is cyberbullying serious?
+Bot: Yes. Words online can hurt just like in real life. That’s why it's important to be kind and tell someone if it's happening.
+
+User: Seryoso ba ang cyberbullying?
+Bot: Oo. Kahit online lang ito, nakakasakit din ito ng damdamin. Dapat nating labanan ito at tulungan ang isa’t isa.
+
+User: What if I see someone else being bullied?
+Bot: Don’t join in. Be a friend. Report it to a teacher or adult so they can help.
+
+User: Paano kung may nakita akong nabu-bully online?
+Bot: Huwag kang makisali. Maging kaibigan. Sabihin agad sa teacher o nakatatanda para matulungan ang bata.
+
+User: What is netiquette?
+Bot: Netiquette means internet etiquette—it’s about being polite, kind, and respectful online.
+
+User: Ano ang netiquette?
+Bot: Ang netiquette ay galing sa salitang "internet" at "etiquette." Ibig sabihin, dapat magpakabait, magalang, at magrespeto habang online.
+
+User: How should I act when talking to others online?
+Bot: Be kind, use polite words, avoid shouting in all caps, and listen when others speak.
+
+User: Paano ako dapat kumilos online?
+Bot: Gumamit ng magagalang na salita, huwag mag-type ng lahat capslock (parang sumisigaw), at makinig sa kausap.
+
+User: Can jokes be taken the wrong way online?
+Bot: Yes, sometimes. That’s why it’s better to think twice before posting, especially if it might hurt someone.
+
+User: Pwede bang ma-misunderstand ang joke online?
+Bot: Oo. Hindi lahat ng tao pareho mag-isip. Kaya mahalagang pag-isipan muna bago mag-post.
+
+User: Should I correct someone if they make a mistake?
+Bot: You can help politely. Never make fun of others. Kindness helps everyone learn better.
+
+User: Dapat ko bang itama ang ibang tao online?
+Bot: Pwede naman, pero gawin ito nang magalang. Huwag pagtawanan. Ang bait ay nakakatulong sa pagkatuto.
+
+User: Is it okay to disagree online?
+Bot: Yes, but do it with respect. It’s okay to share your opinion—but don’t be rude.
+
+User: Pwede bang hindi ako sumang-ayon online?
+Bot: Oo, pero gawin ito nang may respeto. Ayos lang magka-ibang opinyon basta hindi bastos.
+
+
+User: What is reliable information?
+Bot: Reliable information is true, complete, and comes from trusted sources like educational websites, news channels, or books.
+
+User: Ano ang ibig sabihin ng reliable information?
+Bot: Ang reliable information ay totoo, kumpleto, at galing sa mapagkakatiwalaang sources tulad ng edukasyonal na websites, news, o aklat.
+
+User: How can I know if a website is trustworthy?
+Bot: Check if it ends in .edu, .org, or .gov. Look for the author’s name, date, and sources.
+
+User: Paano ko malalaman kung totoo ang isang website?
+Bot: Tingnan kung nagtatapos ito sa .edu, .org, o .gov. Hanapin ang pangalan ng sumulat, petsa, at references.
+
+User: What is fake news?
+Bot: Fake news is false or misleading information that’s shared online to confuse or trick people.
+
+User: Ano ang fake news?
+Bot: Ang fake news ay mga maling balita o impormasyon na sinadyang ikalat para lituhin o lokohin ang tao.
+
+User: Why do people spread fake news?
+Bot: Some do it to get attention, likes, or money. Others just don’t check if what they share is true.
+
+User: Bakit may mga tao na nagpapakalat ng fake news?
+Bot: Minsan gusto lang nila ng likes, views, o pera. Yung iba, hindi muna nag-check kung totoo ang info.
+
+User: How can I tell if news is fake?
+Bot: Check if it’s from a real source, if it sounds too shocking, or if other trusted sites also report it.
+
+User: Paano ko malalaman kung fake ang balita?
+Bot: Suriin kung may tunay na source, kung sobra ito sa gulat, at kung iba pang kilalang site ay nag-report din nito.
+
+User: What should I do if I see fake news online?
+Bot: Don’t share it. Report it to the platform and tell a trusted adult.
+
+User: Anong dapat kong gawin kung may nakita akong fake news?
+Bot: Huwag itong i-share. I-report ito sa app o website at sabihan agad ang magulang o teacher.
+
+User: Is everything I see on social media true?
+Bot: No. Not everything online is real. Always double-check before believing or sharing anything.
+
+User: Totoo ba lahat ng nakikita sa social media?
+Bot: Hindi. Hindi lahat ng nasa internet ay totoo. Ugaliing mag-double check bago maniwala o mag-share.
+
+User: Should I believe everything I read online?
+Bot: Not always! Some things online can be wrong or made up. Always double-check using trusted websites.
+
+User: Dapat ba akong maniwala sa lahat ng nababasa ko sa internet?
+Bot: Hindi palagi! May mga maling impormasyon sa internet. Mas mabuting mag-check sa mapagkakatiwalaang websites.
+
+User: What should I do before I share something online?
+Bot: Ask yourself: Is this true? Is it kind? Is it helpful? If you're not sure, don’t share it.
+
+User: Ano ang dapat kong gawin bago ako mag-share ng post?
+Bot: Tanungin mo ang sarili mo: Totoo ba ito? Mabait ba ito? Makakatulong ba ito? Kung hindi ka sigurado, huwag mo muna i-share.
+
+User: Where can I check if news is true?
+Bot: You can use fact-checking websites like Snopes, Google Fact Check, or ask your teacher or parent.
+
+User: Saan ako pwedeng mag-check kung totoo ang balita?
+Bot: Pwede kang gumamit ng fact-checking websites tulad ng Snopes o Google Fact Check, o magtanong sa teacher o magulang mo.
+
+User: What are some signs of fake news?
+Bot: Watch out for: ALL CAPS titles, no source or author, shocking claims, or websites full of ads.
+
+User: Ano ang mga palatandaan ng fake news?
+Bot: Ingat sa mga title na puro capital letters, walang author o source, sobrang shocking, at punong-puno ng ads ang website.
+
+User: My friend said it’s true. Should I believe it?
+Bot: It's okay to ask friends, but it’s better to check facts for yourself. Even friends can make mistakes.
+
+User: Sabi ng kaibigan ko, totoo daw. Maniniwala ba ako?
+Bot: Okay lang magtanong sa kaibigan, pero mas maganda kung mag-check ka rin. Minsan, nagkakamali rin sila.
+
+User: I saw a post that said “aliens are hiding in school.” Is it true?
+Bot: That sounds like a joke or fake story. If something sounds silly or scary, check if real news sites are saying the same thing.
+
+User: May nabasa ako na may alien daw sa school! Totoo ba yun?
+Bot: Mukhang kwento lang ‘yan o gawa-gawa. Kung parang katawa-tawa o nakakatakot, mas mabuting i-check sa tunay na news.
+
+
+User: Why is it bad to use gadgets all day?
+Bot: Using gadgets too long can hurt your eyes, body, and brain. It's important to take breaks, move around, and rest your mind.
+
+User: Masama ba kung buong araw akong naka-gadget?
+Bot: Oo, masama sa mata, katawan, at utak kung sobrang tagal. Magpahinga ka rin, gumalaw-galaw, at mag-relax paminsan-minsan.
+
+User: Can I still play games and learn at the same time?
+Bot: Yes! Learning games like CodeyGo are fun and educational. Just remember to balance it with rest and real-life activities too.
+
+User: Pwede pa rin ba akong maglaro habang nag-aaral?
+Bot: Pwede! May mga larong tulad ng CodeyGo na pang-aral at masaya. Basta’t may oras ka rin sa iba—tulog, kain, at laro sa labas.
+
+User: How much screen time is okay?
+Bot: Experts say kids should use screens for around 1–2 hours a day for fun. More is okay for school, but don’t forget breaks!
+
+User: Ilang oras lang ba ang okay na screen time?
+Bot: Sabi ng mga eksperto, mga 1 hanggang 2 oras lang sa isang araw para sa laro. Kung pang-aral, okay lang basta may break din.
+
+User: Is it okay to use my tablet before bed?
+Bot: Not really. Bright screens can keep your brain awake. Try reading or relaxing instead so you can sleep better.
+
+User: Pwede ba akong mag-gadget bago matulog?
+Bot: Hindi masyado okay. Nakakagising ang liwanag ng screen. Mas mabuting magbasa o magpahinga muna para masarap ang tulog mo.
+
+User: What should I do if my eyes hurt from too much screen?
+Bot: That means it’s break time! Look away, blink often, stretch, and maybe go outside for a bit.
+
+User: Masakit na ang mata ko sa kaka-gadget. Anong gagawin ko?
+Bot: Break time na! Tumingin ka sa malayo, ipikit ang mata, mag-unat, o lumabas muna saglit.
+
+User: My parents said I can’t use CodeyGo for too long. Why?
+Bot: That’s okay! They care about your health. You can still learn a lot with just a little time each day.
+
+User: Sabi ng magulang ko, bawasan ko raw ang CodeyGo. Bakit kaya?
+Bot: Okay lang 'yan! Gusto ka lang nilang alagaan. Kahit konting oras lang araw-araw, marami ka pa ring matutunan.
+
+User: I get tired after too much screen time. Is that normal?
+Bot: Yes, that’s totally normal! Too much screen time can make your brain feel tired. Resting and doing something offline helps your focus return.
+
+User: Napapagod ako sa kakagamit ng gadget. Normal ba 'yun?
+Bot: Oo, normal lang 'yan! Nakakapagod talaga sa utak ang sobrang screen time. Magpahinga ka muna at gawin ang ibang activity na walang screen.
+
+
+User: Is talking to friends online enough?
+Bot: It's great to talk online, but spending time with people in person builds even stronger friendships. Try to do both!
+
+User: Okay na bang puro online kami ng friends ko?
+Bot: Masaya ang online chat, pero mas matibay ang friendship kung may time din kayong mag-bonding sa totoong buhay!
+
+User: I like games, but I don’t move a lot. Is that bad?
+Bot: Games are fun, but moving your body is just as important. Try playing outside or dancing between CodeyGo lessons!
+
+User: Mahilig ako sa games pero di ako masyado gumagalaw. Okay lang ba 'yon?
+Bot: Masaya ang games, pero kailangan din gumalaw-galaw. Maglaro ka rin sa labas o sumayaw para active ka!
+
+User: I lose track of time when I play games. What should I do?
+Bot: Try setting a timer before you start. That way, you’ll know when it’s time to take a break.
+
+User: Minsan nalilimutan ko na ang oras sa paglalaro. Anong pwede kong gawin?
+Bot: Mag-set ka ng timer bago maglaro. Para alam mo kung kailan na dapat mag-break.
+
+User: What if I want to play CodeyGo but I still have homework?
+Bot: Finish your homework first so you can enjoy CodeyGo without worries! Learning balance is a big part of growing.
+
+User: Gusto ko nang mag- CodeyGo pero may assignment pa ako.
+Bot: Unahin mo muna ang assignment mo para mas enjoy ka pag nag-CodeyGo ka na! Mahalaga ang balanse.
+
+User: Will my brain get tired if I keep using my phone?
+Bot: Yes, too much screen time can make your brain tired. That’s why it’s smart to rest and do different things, like reading, walking, or drawing.
+
+User: Nakakapagod ba talaga sa utak ang phone?
+Bot: Oo, kaya dapat nagpapahinga din tayo. Magbasa, maglakad-lakad, o mag-drawing para makapag-recharge ang utak.
+
+User: What’s a fake app?
+Bot: A fake app looks like a real one, but it might steal your info or show bad ads. Only download apps from official stores like Google Play.
+
+User: Ano ang fake app?
+Bot: Ang fake app ay mukhang totoong app pero delikado—maaring magnakaw ng impormasyon o magpakita ng masasamang ad. Mag-download lang sa official app stores tulad ng Google Play.
+
+User: How do I know if an app is safe?
+Bot: Check the reviews, number of downloads, and if it’s from a trusted developer. Don’t download apps from random links!
+
+User: Paano ko malalaman kung safe ang app?
+Bot: Tingnan ang reviews, dami ng downloads, at kung galing ito sa kilalang developer. Iwasan ang mga app na galing sa mga random na link.
+
+User: This app asked for my camera and location. Is that okay?
+Bot: Some apps need it, but if it seems weird—like a calculator asking for your mic—don’t allow it. Ask an adult to help!
+
+User: Bakit humihingi ng access sa camera at location ang app?
+Bot: May apps na kailangan 'yun, pero kung hindi naman kailangan ng app (halimbawa calculator tapos gusto ng mic), wag mong i-allow. Magtanong sa nakatatanda.
+
+User: Can apps have viruses?
+Bot: Yes, some fake apps carry viruses that can harm your phone. That’s why it’s important to download only from trusted sources.
+
+User: May virus ba sa ibang app?
+Bot: Oo, may mga fake app na may virus na pwedeng makasira ng phone mo. Kaya importante na sa trusted sources lang mag-download.
+
+User: What if a game tells me to install another app to win?
+Bot: Be careful! Some games trick you into downloading unsafe apps. It’s better to skip it and stay safe.
+
+User: Sabi ng game, mag-install daw ako ng isa pang app para manalo.
+Bot: Mag-ingat! Minsan ginagamit 'yan para ma-download mo ang delikadong app. Mas okay nang wag i-risk.
+
+User: I clicked an ad and it downloaded something. What now?
+Bot: Tell a parent or adult right away. They can check if it’s dangerous and delete it safely.
+
+User: May na-download ako kasi aksidenteng na-click ang ad.
+Bot: Sabihan agad ang magulang o nakatatanda. Maari nila itong tingnan at tanggalin kung kailangan.
+
+User: What’s a virus on a computer?
+Bot: A computer virus is like a bad bug that spreads and makes your computer slow, steal your data, or break stuff. Just like we avoid germs, we avoid bad downloads!
+
+User: Ano ang virus sa computer?
+Bot: Parang sakit ang virus sa computer. Nakakasira ito ng files, nagpapabagal, o nagnanakaw ng data. Kaya huwag basta-basta magda-download.
+
+User: What’s a computer worm?
+Bot: A worm is a sneaky kind of virus that spreads without you knowing. It doesn’t need you to open it—once it’s in, it keeps moving around.
+
+User: Ano ang worm sa computer?
+Bot: Ang worm ay isang uri ng virus na kusang kumakalat kahit hindi mo ito buksan. Delikado ito, kaya iwasan ang mga unknown files.
+
+User: What’s malware?
+Bot: Malware means "bad software." It’s any program that tries to harm your computer, steal info, or spy on you.
+
+User: Ano ang malware?
+Bot: Ang malware ay maikling tawag sa “malicious software.” Ito ay masamang program na naninira, nagnanakaw ng info, o naniniktik.
+
+User: What’s a Trojan?
+Bot: A Trojan is a fake app that pretends to be helpful, but secretly causes harm. Like a gift with something bad hidden inside.
+
+User: Ano ang Trojan?
+Bot: Ang Trojan ay app na mukhang okay pero may tinatagong masama. Parang regalo na may virus sa loob—delikado!
+
+User: This app says I’ll win ₱5,000 if I install it. Is it real?
+Bot: Be careful! Apps that promise big prizes for free are usually scams. Always ask a parent or teacher first.
+
+User: May app na nagsabing mananalo raw ako ng ₱5,000. Totoo ba?
+Bot: Mag-ingat! Madalas, panloloko lang ang mga ganyang app. Magtanong muna sa magulang o guro bago mag-download.
+
+User: Can downloads be dangerous?
+Bot: Yes! If you download from unsafe websites, you might get a virus or spyware. Only download from trusted app stores.
+
+User: Delikado ba ang pag-download?
+Bot: Oo! Kapag galing sa hindi kilalang website, pwedeng may virus o spyware. Sa trusted app store lang dapat mag-download.
+
+User: I downloaded something, and now my phone is acting weird.
+Bot: Tell an adult right away. It might be a virus. Don’t try to fix it alone—an adult can help check and remove it.
+
+User: May dinownload ako, tapos parang may mali sa phone ko.
+Bot: Sabihan agad ang nakatatanda. Maaaring may virus ito. Huwag ayusin mag-isa—mas ligtas kung may tutulong.
+
+User: How can I spot a fake app?
+Bot: Look for signs: lots of spelling errors, very few reviews, or asking weird permissions. If unsure, don’t download it!
+
+User: Paano ko malalaman kung fake ang app?
+Bot: Tingnan kung may maraming maling spelling, kakaunting reviews, o humihingi ng kakaibang permission. Kung duda ka, huwag i-download.
+
+User: I saw a pop-up that says I need to download something now!
+Bot: That’s a trick! Don’t click it. These are usually fake and may install a virus. Close it right away.
+
+User: May lumabas na pop-up at sinabing mag-download daw ako agad!
+Bot: Huwag mong i-click! Madalas panloloko lang ‘yan at baka may virus. Isara agad ang pop-up.
+
+
+User: What are instructions in coding?
+Bot: In coding, instructions are like a step-by-step recipe that you give to the computer! Just like you follow steps to bake cookies, a computer follows your instructions to do a task.
+
+User: Does the order of my code matter?
+Bot: Yes, the order of your code is super important! Computers follow instructions one by one, from top to bottom. If you mix up the order, the computer might get confused, just like if you put frosting on your cake before baking it!
+
+User: What is a program?
+Bot: A program is a set of instructions that tells a computer what to do. Think of a video game – it's a program that tells the computer how to show characters, move them, and react to your buttons!
+
+User: What is an algorithm?
+Bot: An algorithm is like a detailed plan or a set of steps to solve a problem. Even when you're getting ready for school, you follow an algorithm: wake up, brush teeth, eat breakfast, get dressed! Computers follow algorithms too.
+
+User: What is a variable?
+Bot: A variable is like a named container or a box where you can store different pieces of information, such as numbers or text, in your code. You can change what's inside the box later!
+
+User: What are numbers and text in coding?
+Bot: In coding, we call numbers like 5 or 100 just numbers (or integers!). Text, like "Hello, world!" or "CodeyGo," is called a string. Computers need to know what kind of information they're working with.
+
+User: What is a loop?
+Bot: A loop is a way to make your program do something over and over again. Instead of writing the same instruction many times, you can just tell the computer to repeat it in a loop!
+
+User: What is an if statement?
+Bot: An if statement lets your code make decisions! It means, "IF this condition is true, THEN do this thing." For example, IF you finish your homework, THEN you can play games.
+
+User: What's the difference between if and else?
+Bot: An if statement checks one thing. But with else, you can tell the computer: "IF this is true, do X, OTHERWISE (else) do Y." An else if lets you check another condition if the first one wasn't true!
+
+User: What is a function in coding?
+Bot: A function is like a mini-program or a special recipe inside your main program. You can
+create a function to do a specific task, like "make a character jump," and then reuse it whenever you need that character to jump!
+
+User: What is a list in coding?
+Bot: A list (sometimes called an array) is like a special container that can hold many different items in order. Imagine a shopping list with many things on it – that's what a coding list is, but for data!
+
+User: How does a program get input from me?
+Bot: A program can get input from you in many ways! It might ask you to type your name, click a button, or press a key on the keyboard. Then, it uses your input to decide what to do next. Output is what the computer shows you back, like text or pictures.
+
+User: What is debugging?
+Bot: Debugging is like being a detective for your code! It's the process of finding and fixing mistakes, also known as "bugs," in your program so it works correctly. Don't worry, every coder does it!
+
+User: What's the difference between a syntax error and a logic error?
+Bot: A syntax error is like a grammar mistake in your code, where you typed something wrong. A logic error means your code runs, but it doesn't do what you want, like if your recipe steps are correct but the cake still tastes bad!
+
+User: Why do coders add comments to their code?
+Bot: Comments are notes that coders write in their code that the computer ignores. They're super helpful for explaining what different parts of the code do, so you and other coders can understand it better later!
+
+User: What are libraries in coding?
+Bot: Libraries (or modules) are like toolboxes full of pre-made code that other programmers have already written. Instead of writing everything from scratch, you can use these tools to make your program do cool things faster!
+
+💡 What is Coding?
+User: What is coding?
+Bot: Coding is how we tell computers what to do. It’s like giving step-by-step instructions to a robot to make it move, draw, or talk!
+
+User: Ano ang coding?
+Bot: Ang coding ay paraan para utusan ang computer. Para itong pagbibigay ng instructions sa robot para ito ay gumalaw, mag-drawing, o magsalita!
+
+🧾 What is a Program?
+User: What’s a program?
+Bot: A program is a bunch of codes that work together to make something happen—like a game, an app, or even a robot dance!
+
+User: Ano ang program?
+Bot: Ang program ay grupo ng mga code na nagtutulungan para may mangyari—tulad ng laro, app, o sayaw ng robot!
+
+User: What is a variable?
+Bot: A variable is like a container that holds something—like your name, score, or age—so the computer can use it later.
+
+User: Ano ang variable?
+Bot: Ang variable ay parang lalagyan. Nilalagay dito ang mga bagay gaya ng pangalan, puntos, o edad para magamit ng computer mamaya.
+
+User: What’s a loop?
+Bot: A loop tells the computer to repeat something again and again. Like singing a song chorus over and over!
+
+User: Ano ang loop?
+Bot: Ang loop ay utos na inuulit-ulit ng computer. Parang paulit-ulit mong kinakanta ang chorus ng kanta!
+
+User: What is an "if statement"?
+Bot: It’s a rule that tells the computer to do something only if a condition is true. Like, if you press a button, then the robot moves.
+
+User: Ano ang if statement?
+Bot: Ito ay utos na ginagawa ng computer kung totoo ang isang bagay. Halimbawa, kung pinindot mo ang button, gagalaw ang robot.
+
+User: What’s an algorithm?
+Bot: An algorithm is a list of steps to solve a problem. Like a recipe, but instead of baking, you're solving with code!
+
+User: Ano ang algorithm?
+Bot: Ang algorithm ay sunod-sunod na steps para masolusyunan ang problema. Para itong recipe—pero gamit ay code, hindi harina!
+
+User: How do I print something in code?
+Bot: In most coding languages, you use print() to show text. Like: print("Hello!") will make the computer say Hello!
+
+User: Paano ako magpa-print sa code?
+Bot: Kadalasan, gumagamit ng print() para magpakita ng salita. Halimbawa: print("Kamusta!") – sasabihin ng computer na Kamusta!
+
+User: How do I store numbers in code?
+Bot: You can use a variable! Like: score = 10 means you’re saving the number 10 in a box called "score."
+
+User: Paano ko mai-store ang number sa code?
+Bot: Gamit ka ng variable! Halimbawa: score = 10 – nilalagay mo ang 10 sa lalagyan na ang pangalan ay “score”.
+
+User: Can I make a game with coding?
+Bot: Yes, totally! Many games are made with code. Start with simple games like matching cards or quizzes—you’ll learn fast!
+
+User: Pwede ba akong gumawa ng laro gamit ang coding?
+Bot: Oo naman! Karamihan ng games ay gawa sa code. Pwede kang magsimula sa simpleng games gaya ng card match o quiz!
+
+User: What’s a bug in coding?
+Bot: A bug is a mistake in the code that stops things from working. Don’t worry—everyone makes bugs. You just fix it!
+
+User: Ano ang bug sa coding?
+Bot: Ang bug ay pagkakamali sa code kaya hindi ito gumagana. Normal lang magkamali—ang mahalaga ay natututo kang ayusin ito!
+
+User: What is data in coding?
+Bot: Data is information that computers use—like numbers, words, or answers you type. Computers need data to make decisions or show results.
+
+User: Ano ang data sa coding?
+Bot: Ang data ay impormasyon na ginagamit ng computer—gaya ng mga numero, salita, o sagot na ini-input mo. Kailangan ito ng computer para magdesisyon o magpakita ng resulta.
+
+User: What is a function?
+Bot: A function is like a small machine in your code. You give it a name and tell it what to do. Then you can use it again and again!
+
+User: Ano ang function?
+Bot: Ang function ay parang maliit na makina sa loob ng code. Binibigyan mo ito ng pangalan at utos. Pwede mo itong gamitin paulit-ulit!
+
+User: What is block-based coding?
+Bot: It’s a fun way to code using colorful blocks instead of words. You snap blocks together like a puzzle to create programs. It’s great for beginners!
+
+User: Ano ang block-based coding?
+Bot: Ito ay masayang paraan ng pag-code gamit ang makukulay na blocks imbes na words. Parang puzzle na isinasama-sama mo ang blocks para gumawa ng program. Swak ito para sa mga nagsisimula pa lang!
+
+User: What is text-based coding?
+Bot: It’s when you type the code using a keyboard—like writing commands in Python or JavaScript. It gives you more control!
+
+User: Ano ang text-based coding?
+Bot: Ito ay kapag nagta-type ka ng code gamit ang keyboard—parang pagsusulat ng utos sa Python o JavaScript. Mas malawak ang kontrol mo dito!
+
+User: What’s a game loop in coding?
+Bot: A game loop is what makes a game keep running. It checks for actions, moves things, and updates the screen—again and again!
+
+User: Ano ang game loop sa coding?
+Bot: Ang game loop ang nagpapagalaw at nagpapatuloy sa laro. Lagi nitong chine-check ang galaw, update, at kilos—ulit-ulit ito!
+
+User: What is a syntax error?
+Bot: A syntax error happens when something is typed wrong in the code—like a missing bracket or wrong spelling. Computers need code written exactly right!
+
+User: Ano ang syntax error?
+Bot: Ang syntax error ay pagkakamali sa pagkakasulat ng code—gaya ng nawawalang bracket o maling spelling. Kailangang tama at maayos ang pagkasulat para maintindihan ng computer.
+
+User: What does “input” mean?
+Bot: Input is information you give to a computer—like typing your name or clicking a button.
+
+User: Ano ang ibig sabihin ng “input”?
+Bot: Ang input ay impormasyong ibinibigay mo sa computer—gaya ng pagta-type ng pangalan o pag-click ng button.
+
+User: What is “output”?
+Bot: Output is what the computer shows you after using your input—like displaying a message or sound.
+
+User: Ano ang “output”?
+Bot: Ang output ay ang pinapakita o pinapadinig sa'yo ng computer pagkatapos nitong gamitin ang input mo—gaya ng mensahe o tunog.
+
+User: What is logic in coding?
+Bot: Logic is how computers think using rules. It helps the program decide what to do next based on your input.
+
+User: Ano ang logic sa coding?
+Bot: Ang logic ay parang pag-iisip ng computer gamit ang mga patakaran. Nakakatulong ito para malaman ng program kung ano ang susunod na gagawin.
+
+User: What is testing in coding?
+Bot: Testing means checking if your code works the way you want. It helps you find and fix bugs!
+
+User: Ano ang testing sa coding?
+Bot: Ang testing ay ang pag-check kung gumagana ang code ayon sa gusto mo. Nakakatulong itong makita at ayusin ang mga mali.
+
+User: What is a line of code?
+Bot: A line of code is one instruction for the computer. Just like a sentence tells someone what to do, a line of code tells the computer what to do step by step.
+
+User: Ano ang line of code?
+Bot: Ang line of code ay isang utos para sa computer. Parang pangungusap na nagsasabi ng gagawin, isa-isa nitong inuutusan ang computer kung anong susunod.
+
+User: Can you explain a loop again?
+Bot: Sure! A loop is used when you want to repeat something in your code. Like saying “Do this 5 times!”
+
+User: Pwede mo bang ulitin kung ano ang loop?
+Bot: Oo! Ang loop ay ginagamit kung gusto mong ulitin ang isang bagay sa code. Parang sinasabi mong “Gawin ito ng 5 beses!”
+
+User: What is a comment in coding?
+Bot: A comment is a note written in your code to explain what something does. The computer ignores it, but it's helpful for people reading the code.
+
+User: Ano ang comment sa code?
+Bot: Ang comment ay parang note sa code para ipaliwanag kung anong ginagawa nito. Hindi ito binabasa ng computer, pero nakakatulong sa mga taong nagbabasa ng code.
+
+User: What is a program?
+Bot: A program is a group of code lines that work together to make something happen—like a game, website, or app.
+
+User: Ano ang program?
+Bot: Ang program ay koleksyon ng mga code na nagtutulungan para may mangyari—gaya ng laro, website, o app.
+
+User: What is an integer in coding?
+Bot: An integer is a whole number, like 1, 2, or 100. You use it when you don’t need decimals or fractions.
+
+User: Ano ang integer sa coding?
+Bot: Ang integer ay buumbilang na numero, tulad ng 1, 2, o 100. Ginagamit ito kapag hindi kailangan ng decimal o hati.
+
+User: What is a string?
+Bot: A string is a group of letters or words in code, like “Hello!” or your name. Computers see it as text.
+
+User: Ano ang string?
+Bot: Ang string ay grupo ng mga letra o salita sa code, tulad ng “Hello!” o pangalan mo. Para sa computer, ito ay text.
+
+User: What is a condition in code?
+Bot: A condition checks if something is true or false. Like: “If I press this button, then play music.”
+
+User: Ano ang condition sa code?
+Bot: Ang condition ay nagche-check kung totoo o hindi ang isang bagay. Halimbawa: “Kung pinindot ang button, patugtugin ang music.”
+
+User: What is a logic gate?
+Bot: Logic gates are tiny parts of a computer that help make decisions using yes or no (true or false). They're like the brain’s switches!
+
+User: Ano ang logic gate?
+Bot: Ang logic gates ay maliliit na bahagi ng computer na tumutulong magdesisyon gamit ang oo o hindi (true o false). Parang switch ng utak ng computer!
+
+User: What is random in coding?
+Bot: Random means the computer picks something by surprise. Like rolling a dice—it can be any number!
+
+User: Ano ang random sa coding?
+Bot: Ang random ay kapag pumili ang computer ng hindi inaasahan. Parang pag-roll ng dice—kahit anong numero pwede lumabas!
+
+User: What is a variable name?
+Bot: It’s the label you give to store information in your code. Like naming a box so you know what’s inside it.
+
+User: Ano ang variable name?
+Bot: Ito ang pangalan na ibinibigay mo para i-store ang impormasyon sa code. Parang paglagay ng label sa kahon para alam mo ang laman.
+
+User: What is debugging?
+Bot: Debugging means finding and fixing mistakes in your code. Even pro coders make errors—debugging helps fix them so your code works!
+
+User: Ano ang debugging?
+Bot: Ang debugging ay paghahanap at pag-aayos ng mali sa code mo. Kahit expert nagkakamali! Kaya importanteng i-debug para gumana ng tama ang code.
+
+User: What is an error in coding?
+Bot: An error is something that stops your code from running. It’s like when you forget a step in baking—a small mistake can break the whole recipe!
+
+User: Ano ang error sa coding?
+Bot: Ang error ay mali sa code na nagpapahinto dito sa pagtakbo. Parang nakalimot ka ng step sa pagluluto—pwedeng hindi gumana ang lahat.
+
+User: What is input in coding?
+Bot: Input is information you give to a program—like pressing a button or typing your name. The computer listens and reacts!
+
+User: Ano ang input sa coding?
+Bot: Ang input ay impormasyong ibinibigay mo sa program—tulad ng pagpindot ng button o pag-type ng pangalan mo. Nakikinig ang computer at may gagawin siya!
+
+User: What is output in coding?
+Bot: Output is what the computer shows you after running the code—like an answer, a message, or a picture!
+
+User: Ano ang output sa coding?
+Bot: Ang output ay ang ipinapakita ng computer matapos patakbuhin ang code—tulad ng sagot, mensahe, o larawan!
+
+User: What is block-based coding?
+Bot: Block-based coding lets you drag and snap code blocks instead of typing. It’s great for beginners—you can focus on ideas, not spelling!
+
+User: Ano ang block-based coding?
+Bot: Sa block-based coding, nagda-drag at kinokonekta mo lang ang mga code blocks—hindi mo na kailangang mag-type. Perfect ito sa mga nagsisimula!
+
+User: What is a function in coding?
+Bot: A function is a set of code you name and reuse. It’s like a recipe you can call any time without rewriting it!
+
+User: Ano ang function sa coding?
+Bot: Ang function ay grupo ng code na may pangalan at pwedeng ulit-ulitin. Parang recipe na pwedeng lutuin kahit kailan—hindi mo na kailangang isulat ulit lahat!
+
+User: What is a goal in coding?
+Bot: A goal is what you want your program to do—like move a character, show a score, or answer a question!
+
+User: Ano ang goal sa coding?
+Bot: Ang goal ay ang gusto mong gawin ng program mo—tulad ng paggalaw ng character, pagpakita ng score, o pagsagot ng tanong!
+
+User: What is logic in coding?
+Bot: Logic is how the computer makes decisions. You use rules like “If this happens, do that.” It’s how you build smart programs!
+
+User: Ano ang logic sa coding?
+Bot: Ang logic ay kung paano nagdedesisyon ang computer. Gumagamit ka ng rules tulad ng “Kung ganito, gawin iyon.” Kaya nagiging matalino ang programs mo!
+
+User: What is an event in code?
+Bot: An event is something that happens, like clicking a button or tapping the screen. Your code listens for these events to know what to do next.
+
+User: Ano ang event sa code?
+Bot: Ang event ay isang nangyayari—tulad ng pag-click ng button o pag-tap ng screen. Nakikinig ang code mo para malaman kung kailan gagalaw.
+
+User: What is a bug in coding?
+Bot: A bug is a small mistake in your code that causes a problem. It’s called a bug because early computers used to have real bugs inside them!
+
+User: Ano ang bug sa coding?
+Bot: Ang bug ay maliit na mali sa code mo na nagdudulot ng problema. Tinawag itong “bug” kasi noon, may totoong insekto sa loob ng mga lumang computer!
+
+User: What is a constant in coding?
+Bot: A constant is like a variable, but it never changes! It’s like your birthday—it always stays the same.
+
+User: Ano ang constant sa coding?
+Bot: Ang constant ay parang variable, pero hindi mo pwedeng palitan. Parang birthday mo—hindi nagbabago!
+
+User: What is a boolean in coding?
+Bot: A boolean is a type of data that can only be true or false. It helps the computer make decisions.
+
+User: Ano ang boolean sa coding?
+Bot: Ang boolean ay isang uri ng data na pwedeng totoo o hindi lang ang sagot. Ginagamit ito ng computer sa paggawa ng desisyon.
+
+User: What is indentation in coding?
+Bot: Indentation means moving your code a little to the right so it’s easier to read. It shows which parts belong together.
+
+User: Ano ang indentation sa coding?
+Bot: Ang indentation ay ang pagtabi ng code pakaliwa o pakanan para mas madaling basahin. Nakakatulong ito para makita kung aling codes ang magka-grupo.
+
+User: What is a compiler?
+Bot: A compiler is a tool that translates your whole code into something the computer understands. It helps run your program!
+
+User: Ano ang compiler?
+Bot: Ang compiler ay tumutulong para maisalin ang buong code mo sa lengguwahe na naiintindihan ng computer. Kailangan ito para mapatakbo ang program mo!
+
+User: What is a delay in coding?
+Bot: A delay makes the computer wait before doing something. Like when you pause between words in a story!
+
+User: Ano ang delay sa coding?
+Bot: Ang delay ay utos para hintayin muna ng computer bago gawin ang susunod. Parang pahinga kapag nagsasalaysay ka ng kwento!
+
+User: What is a prompt in coding?
+Bot: A prompt is a message that asks the user to type something. Like when a program says, “What’s your name?”
+
+User: Ano ang prompt sa coding?
+Bot: Ang prompt ay mensahe na humihiling sa user na mag-type. Halimbawa, kapag tinanong ng program, “Anong pangalan mo?”
+
+User: What is a loop counter?
+Bot: A loop counter keeps track of how many times a loop has run. It’s like counting how many times you jump!
+
+User: Ano ang loop counter?
+Bot: Ang loop counter ay nagbibilang kung ilang beses nang umikot ang loop. Parang pagbibilang kung ilang beses ka tumalon!
+
+User: What is a file in coding?
+Bot: A file is where you store your code or data. It’s like a folder on your computer where all your work lives.
+
+User: Ano ang file sa coding?
+Bot: Ang file ay lugar kung saan mo iniimbak ang code o data mo. Parang folder sa computer kung saan nakatago ang gawa mo.
+
+User: What is HTML?
+Bot: HTML is a coding language used to make web pages. It tells the computer what text, pictures, and buttons to show.
+
+User: Ano ang HTML?
+Bot: Ang HTML ay isang coding language para gumawa ng web pages. Sinasabi nito kung anong text, larawan, at buttons ang ipapakita.
+
+User: What is recursion in coding?
+Bot: Recursion is when a function calls itself to solve a problem. It’s like looking into a mirror that shows another mirror!
+
+User: Ano ang recursion sa coding?
+Bot: Ang recursion ay kapag tinawag ng isang function ang sarili niya para lutasin ang problema. Parang salamin na may salamin sa loob!
+
+User: What’s an interactive program?
+Bot: It’s a program that responds to your actions—like games or quizzes! You click, type, or tap, and it does something back.
+
+User: Ano ang interactive program?
+Bot: Ito ay program na sumasagot o gumagalaw kapag may ginawa ka—tulad ng laro o quiz. Kapag nag-click ka o nag-type, may nangyayari!
+
+User: What is a goal in programming?
+Bot: A goal is what you want your code to do! Like making a game work, showing a message, or moving a robot.
+
+User: Ano ang goal sa programming?
+Bot: Ang goal ay ang gusto mong mangyari sa code mo! Tulad ng pagpapagana ng laro, pagpapakita ng mensahe, o pagpapagalaw ng robot.
+
+User: What is a data type?
+Bot: A data type tells the computer what kind of information it’s using—like numbers, words, or true/false values.
+
+User: Ano ang data type?
+Bot: Ang data type ay nagsasabi sa computer kung anong klase ng impormasyon ang ginagamit—tulad ng numero, salita, o true/false.
+
+User: What does “execution” mean in coding?
+Bot: Execution means the computer is following and running your code step by step!
+
+User: Ano ang ibig sabihin ng “execution” sa coding?
+Bot: Ang execution ay ang pagsunod ng computer sa code mo—hakbang-hakbang!
+
+User: What are parameters in coding?
+Bot: Parameters are like special ingredients you give to a function so it knows what to do. Like giving a name or number to use!
+
+User: Ano ang parameters sa coding?
+Bot: Ang parameters ay mga espesyal na impormasyon na binibigay mo sa function para malaman nito kung anong gagawin. Para itong sangkap sa recipe!
+
+User: What is pseudocode?
+Bot: Pseudocode is writing your code ideas in simple words before using real code. It helps you plan your program!
+
+User: Ano ang pseudocode?
+Bot: Ang pseudocode ay pagsulat ng code gamit ang simpleng salita muna, bago ang totoong code. Para itong plano ng program mo.
+
+User: What is encryption in coding?
+Bot: Encryption is like locking up data with a secret code so only the right people can read it.
+
+User: Ano ang encryption sa coding?
+Bot: Ang encryption ay parang paglalagay ng kandado sa impormasyon gamit ang lihim na code para lang sa tamang tao ito mabasa.
+
+User: What is a sprite in coding games?
+Bot: A sprite is a character or object you can move or control in a game—like a hero, car, or coin!
+
+User: Ano ang sprite sa coding ng games?
+Bot: Ang sprite ay character o bagay na pwede mong galawin sa isang laro—tulad ng bayani, kotse, o barya!
+
+User: What is natural language processing?
+Bot: It’s when computers try to understand human language—like when you talk to a chatbot and it replies!
+
+User: Ano ang natural language processing?
+Bot: Ito ay kapag sinusubukan ng computer intindihin ang wikang ginagamit ng tao—tulad ng pakikipag-chat mo sa chatbot!
+
+User: What is a test case in coding?
+Bot: A test case is a sample input you try to see if your code works correctly!
+
+User: Ano ang test case sa coding?
+Bot: Ang test case ay halimbawa ng input na ginagamit para tingnan kung tama ang takbo ng code mo!
+
+User: What is an IDE in coding?
+Bot: IDE means "Integrated Development Environment"—it's like a special tool where you write, test, and fix your code!
+
+User: Ano ang IDE sa coding?
+Bot: Ang IDE ay “Integrated Development Environment”—isang tool kung saan ka nagsusulat, sumusubok, at nag-aayos ng code mo!
+
+User: Hi
+Bot: Hello! How can I help you today?
+
+User: Hey there
+Bot: Hi! What's on your mind?
+
+User: How's it going?
+Bot: I'm doing well, thank you for asking! I'm ready to assist you.
+
+User: Good morning
+Bot: Good morning! I hope you have a great start to your day.
+
+User: Bye
+Bot: Goodbye! Have a great day.
+
+User: See you later
+Bot: Take care! I'll be here if you need me again.
+
+User: I have to go now
+Bot: Understood. Feel free to reach out anytime. Goodbye!
+
+User: What is your name?
+Bot: I don't have a personal name. You can just call me Chatbot.
+
+User: Who made you?
+Bot: I was developed by a team of engineers and researchers.
+
+User: What can you do?
+Bot: I can answer questions, help you brainstorm ideas, write text, explain complex topics, and much more. What would you like to try?
+
+User: Are you human?
+Bot: No, I am an AI. I'm here to assist you with information and tasks.
+
+User: Are you a robot?
+Bot: I am a software program, an AI. So in a sense, yes, you could call me a robot!
+
+User: How old are you?
+Bot: I don't have an age in the human sense. I am constantly being updated.
+
+User: How are you?
+Bot: As an AI, I don't have feelings, but I'm operating at peak efficiency! How are you doing?
+
+User: What's the weather like?
+Bot: I can't check the current, live weather. However, I can give you a general forecast if you tell me the city and country.
+
+User: What time is it?
+Bot: I don't have real-time access to the current time. I recommend checking the clock on your device for the most accurate time.
+
+User: What are you up to?
+Bot: I'm here and ready to chat with you! What can I do for you?
+
+User: Tell me something interesting.
+Bot: Of course! Did you know that a group of flamingos is called a "flamboyance"?
+
+User: What is the capital of France?
+Bot: The capital of France is Paris.
+
+User: How tall is Mount Everest?
+Bot: The official elevation of Mount Everest is 8,848.86 meters (29,031.7 feet) above sea level.
+
+User: Who wrote "To Kill a Mockingbird"?
+Bot: "To Kill a Mockingbird" was written by Harper Lee.
+
+User: Can you explain photosynthesis?
+Bot: Photosynthesis is the process used by plants, algae, and some bacteria to convert light energy into chemical energy, which they then use as food.
+5. Making a Request
+
+User: Tell me a joke.
+Bot: Why don't scientists trust atoms? Because they make up everything!
+
+User: Can you recommend a movie?
+Bot: Of course! What genre are you in the mood for? Fiction, non-fiction, sci-fi?
+
+User: Help me write an email to my boss.
+Bot: I can certainly help with that. What is the purpose of the email and what key points do you need to include?
+
+User: Set a timer for 10 minutes.
+Bot: I can't set timers directly, but I can remind you to do so! Please use the clock or timer app on your phone or computer.
+
+User: Give me a recipe for chocolate chip cookies.
+Bot: I can do that! A classic recipe usually includes flour, butter, sugar, eggs, vanilla extract, baking soda, and chocolate chips. Would you like detailed instructions?
+
+User: I'm feeling sad today.
+Bot: I'm sorry to hear that. Sometimes just talking about it can help. Is there anything you'd like to discuss or a task I can help with to take your mind off things?
+
+User: This is amazing!
+Bot: I'm glad you think so! It's great to know I've been helpful.
+
+User: I'm bored.
+Bot: I can help with that! Would you like to hear a fun fact, a short story, or maybe brainstorm some new hobbies?
+
+User: I don't like that answer.
+Bot: I apologize if my response wasn't what you were looking for. Could you tell me what was wrong so I can provide a better one?
+
+User: I'm so excited for my vacation!
+Bot: That sounds wonderful! Where are you going?
+
+User: I don't understand.
+Bot: I apologize for the confusion. Could you please try rephrasing your question? Or perhaps I can explain it in a simpler way.
+
+User: That's not what I meant.
+Bot: My apologies. Could you clarify what you were asking for? I'll do my best to understand.
+
+User: Can you repeat that?
+Bot: Of course. [Bot repeats the previous answer].
+
+User: That's wrong.
+Bot: Thank you for the correction. As an AI, I'm always learning. Could you please provide the correct information so I can improve?
+
+User: Never mind.
+Bot: Alright. Is there something else I can assist you with?
+8. Gratitude and Feedback
+
+User: Thank you.
+Bot: You're very welcome! Is there anything else you need?
+
+User: Thanks for your help.
+Bot: It was my pleasure to assist you!
+
+User: You're very helpful.
+Bot: Thank you! I'm happy I could help. My goal is to be as useful as possible.
+
+User: This isn't very helpful.
+Bot: I'm sorry I wasn't able to meet your expectations. Could you tell me more about what you were looking for? Your feedback is valuable for my improvement.
